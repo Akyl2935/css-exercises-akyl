@@ -1,0 +1,27 @@
+*{
+    font-family: "Verdana", "DejaVu Sans", "sans-serif" ;
+}
+
+.paragraph-first-class{
+    background-color: rgb(252, 3, 90);
+}
+
+#number2-ID{
+    font-size: 36px;
+    color: blue;
+    
+}
+
+.cool.adjust-cooler{
+    background-color: rgb(252, 3, 90);
+}
+
+#number3-ID{
+    font-size: 24px;
+    background-color:rgb(44, 230, 65);
+}
+
+.paragraph-last-class{
+    background-color: rgb(252, 3, 90);
+    font-weight: bold;
+}
